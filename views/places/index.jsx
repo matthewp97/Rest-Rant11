@@ -15,7 +15,7 @@ function index (data) {
 		<p className="text-center">
 			{place.cuisines}
 		</p>
-        <img src={place.pic} alt={place.name} className="center" width="100%"/>
+        <img src={place.pic} alt={place.name} className="center" height="250px" width="250px"/>
 		<p className="text-center">
 			Located in {place.city}, {place.state}
 		</p>
