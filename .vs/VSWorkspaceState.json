@@ -4,7 +4,8 @@
     "\\controllers",
     "\\models",
     "\\public",
-    "\\public\\css",
+    "\\public\\images",
+    "\\seeders",
     "\\views",
     "\\views\\places"
   ],
