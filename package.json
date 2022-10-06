@@ -1,7 +1,7 @@
 {
   "name": "part1",
   "version": "1.0.0",
-  "description": "",
+  "description": "TBD - SUMMARY",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "react-dom": "^16.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp97/Rest-Rant11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewp97/Rest-Rant11/issues"
+  },
+  "homepage": "https://github.com/matthewp97/Rest-Rant11#readme"
 }
