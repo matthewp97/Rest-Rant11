@@ -1,6 +1,9 @@
 {
   "name": "part1",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.1.0"
+  }
   "description": "TBD - SUMMARY",
   "main": "index.js",
   "scripts": {
